@@ -1,1 +1,2 @@
-My firt readme
+My first readme file...
+Right now, things are starting to get better and I love it.
